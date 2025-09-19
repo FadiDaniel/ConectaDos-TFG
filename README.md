@@ -1,12 +1,16 @@
-# ConectaDos-TFG
-Copyright (c) 2025 ConectaDos
-All rights reserved | Todos los derechos reservados.
+# conectados
 
-ConectaDos is a cross-platform app developed in Flutter that allows students to create professional profiles linked to their academic tutors, who act as intermediaries in the internship formalization process. Students can explore and apply to job openings posted by companies, while companies can review the profiles of interested candidates and attract talent much more easily and quickly.
-We designed the app with a minimalist and intuitive approach, prioritizing functionality and user experience. We implemented a secure authentication system with different access levels depending on the user type (student, company, or tutor), allowing each user to access only the features relevant to their role.
+A new Flutter project.
 
-<br>
-<img width="1279" height="720" alt="tfg1" src="https://github.com/user-attachments/assets/69f47943-3b25-4130-8009-cfc34c0bfa01" />
-<br><br><br>
-<img width="1281" height="720" alt="tfg2" src="https://github.com/user-attachments/assets/f3b5d270-a764-4208-a7dd-9a304c86cd7d" />
+## Getting Started
 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

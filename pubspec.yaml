@@ -1,0 +1,47 @@
+name: conectados
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+  cupertino_icons: ^1.0.8
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  dartz:
+  cached_network_image: ^3.4.1
+  
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icons/icono.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/icons/icono.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - "assets/images/"
+
+  fonts:
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/Arial.ttf
+
+ 
