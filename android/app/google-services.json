@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010379321212",
+    "project_id": "conectados-be3b4",
+    "storage_bucket": "conectados-be3b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010379321212:android:4bc13a4d41ae546e8a7ef9",
+        "android_client_info": {
+          "package_name": "com.example.conectados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP48D8wrI43uSRin2brYZG5k2farMCzcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
