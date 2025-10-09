@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.lock linguist-generated
+*.iml linguist-generated
+*.yaml linguist-generated
+android/ linguist-generated
+ios/ linguist-generated
+build/ linguist-generated
+
+*.dart linguist-language=Dart export-subst
